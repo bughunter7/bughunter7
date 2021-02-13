@@ -8,7 +8,7 @@
 </a>
 <a href="https://github.com/bughunter7">
   <img align="left" alt="Shubham's Github" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</a></br>
 <h3 align="left">Languages and Tools:</h3>
 
 
