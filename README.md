@@ -10,7 +10,7 @@
   <img align="left" alt="Shubham's Github" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a></br>
 <h3 align="left">Languages and Tools:</h3>
-<code><img height="40" src="https://www.itprotoday.com/sites/itprotoday.com/files/java-logo.png"></code>
+<code><img height="40" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png"></code>
 <code><img height="40" src="https://www.selenium.dev/images/selenium_logo_square_green.png"></code>
 <code><img height="40" src="https://blog.knoldus.com/wp-content/uploads/2020/04/Blog9_featureImage.png"></code>
 <code><img height="40" src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/10/pm-logo-vert.png"></code>
