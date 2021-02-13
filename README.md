@@ -12,6 +12,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="40" src="https://www.selenium.dev/images/selenium_logo_square_green.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png"></code>
+<code><img height="40" src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/10/pm-logo-vert.png"></code>
+<code><img height="40" src="https://miro.medium.com/max/3306/1*_wxvYQ3bmLZBk31PIZihfA.png"></code>
+<code><img height="40" src="https://blog.knoldus.com/wp-content/uploads/2020/04/Blog9_featureImage.png"></code>
+<code><img height="40" src="https://blog.testproject.io/wp-content/uploads/2020/08/874086.png"></code>
+<code><img height="40" src="https://i0.wp.com/testingfreak.com/wp-content/uploads/2015/01/testng1.png?resize=568%2C201"></code>
+
+
 
 
 
