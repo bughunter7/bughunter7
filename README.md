@@ -25,6 +25,6 @@
 
 
 - 🔭 I’m currently working as QA Engineer
-- 🌱 I’m currently learning and exploriring upcoming things about automation testing 
+- 🌱 I’m currently learning and exploring upcoming things about Automation Testing 
 - 💬 Ask me about Testing or any Tech Related stuff
 - ⚡ Fun fact: ...I love Bugs only in Websites :)
