@@ -10,7 +10,8 @@
   <img align="left" alt="Shubham's Github" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a></br>
 <h3 align="left">Languages and Tools:</h3>
-
+<code><img height="40" src="https://www.selenium.dev/images/selenium_logo_square_green.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/212px-Java_programming_language_logo.svg.png"></code>
 
 
 
