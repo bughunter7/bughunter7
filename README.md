@@ -41,7 +41,7 @@
 <br>
 <h3 align="left">Repositories:</h3>
 <a href="https://github.com/bughunter7/CucumberFrameworkJunitDemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bughunter7&repo=CucumberFrameworkJunitDemo&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bughunter7&repo=CucumberFrameworkJunitDemo&theme=light" />
 
 </a>
 <div align="center">
