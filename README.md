@@ -38,13 +38,15 @@
 <a href="https://github.com/bughunter7">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bughunter7&show_icons=true&theme=dark&line_height=27" alt="Shubham's github stats"/>
 </a>
+<br>
+<h3 align="left">Repositories:</h3>
 <a href="https://github.com/bughunter7/CucumberFrameworkJunitDemo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bughunter7&repo=CucumberFrameworkJunitDemo&theme=dark" />
 
 </a>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories !
 
 </div>
 
