@@ -44,6 +44,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bughunter7&repo=CucumberFrameworkJunitDemo&theme=dark" />
 
 </a>
+<a href="https://github.com/bughunter7/CucumberFrameworkTestngDemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bughunter7&repo=CucumberFrameworkTestngDemo&theme=dark" />
+
+</a>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories !
