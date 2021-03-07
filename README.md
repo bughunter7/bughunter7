@@ -20,7 +20,7 @@
 
 
 - 🔭 I’m currently working as QA Engineer
-- 🌱 I’m currently learning and exploring upcoming things about Automation Testing 
+- 🌱 I’m currently learning Rest Assured
 - 💬 Ask me about Testing or any Tech Related stuff
 - ⚡ Fun fact: ...I love Bugs only in Websites :)
 </br>
