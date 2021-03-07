@@ -48,6 +48,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bughunter7&repo=CucumberFrameworkTestngDemo&theme=dark" />
 
 </a>
+
+<a href="https://github.com/bughunter7/API_Testing_Using_Postman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bughunter7&repo=API_Testing_Using_Postman&theme=dark" />
+
+</a>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories !
