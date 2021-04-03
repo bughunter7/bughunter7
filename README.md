@@ -32,13 +32,8 @@
 
 
 
-<a href="https://github.com/bughunter7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bughunter7&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/bughunter7">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bughunter7&show_icons=true&theme=dark&line_height=27" alt="Shubham's github stats"/>
-</a>
-<br>
+
+</br>
 <h3 align="left">Repositories:</h3>
 <a href="https://github.com/bughunter7/CucumberFrameworkJunitDemo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bughunter7&repo=CucumberFrameworkJunitDemo&theme=dark" />
