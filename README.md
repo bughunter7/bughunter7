@@ -35,6 +35,14 @@
 
 </br>
 <h3 align="left">Repositories:</h3>
+<a href="https://github.com/bughunter7/HybridFramework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bughunter7&repo=HybridFramework&theme=dark" />
+
+</a>
+
+
+
+
 <a href="https://github.com/bughunter7/CucumberFrameworkJunitDemo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bughunter7&repo=CucumberFrameworkJunitDemo&theme=dark" />
 
