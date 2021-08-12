@@ -55,10 +55,6 @@
 
 </a>
 
-<a href="https://github.com/bughunter7/HybridFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bughunter7&repo=HybridFramework&theme=dark" />
-
-</a>
 
 <div align="center">
 
