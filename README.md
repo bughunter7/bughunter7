@@ -14,7 +14,7 @@
 <code><img height="30" src="https://www.selenium.dev/images/selenium_logo_square_green.png"></code>
 <code><img height="30" src="https://blog.knoldus.com/wp-content/uploads/2020/04/Blog9_featureImage.png"></code>
 <code><img height="30" src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/10/pm-logo-vert.png"></code>
-<code><img height="30" src="https://miro.medium.com/max/3306/1*_wxvYQ3bmLZBk31PIZihfA.png"></code>
+<code><img height="30" src="https://i0.wp.com/cdn-images-1.medium.com/max/800/1*KeuQ7uNalz2l4rBOyPAUpg.png?w=1180&ssl=1"></code>
 </br>
 </br>
 
